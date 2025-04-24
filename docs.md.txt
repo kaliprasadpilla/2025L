@@ -7,3 +7,9 @@ adults, or pets.
 Testing the update using pull command
 
 Testing done updating from cmd line
+
+
+
+
+
+cmd merge
