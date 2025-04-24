@@ -8,12 +8,7 @@ Testing the update using pull command
 
 Testing done updating from cmd line
 
-<<<<<<< HEAD
-
-
-
-
 cmd merge
-=======
+
 merging
->>>>>>> 0b61c42e49568be998945ebfc9593314b5a827a5
+
